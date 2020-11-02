@@ -1,4 +1,4 @@
-Look up my portfolio [here](https://gahara31.github.io/)
+Look up my portfolio [here]()
 =======
 
 Build based on Freelancer Jekyll theme
