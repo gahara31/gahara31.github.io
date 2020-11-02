@@ -1,3 +1,7 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+Look up my portfolio [here](gahara31.github.io)
+=======
+
+
+Build based on Freelancer Jekyll theme
 =========================
 
